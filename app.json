@@ -1,0 +1,12 @@
+{
+  "name": "iq-scroll",
+  "displayName": "iq-scroll",
+  "expo": {
+    "name": "iq-scroll",
+    "slug": "iq-scroll",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
