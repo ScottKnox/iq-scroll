@@ -15,7 +15,7 @@ ImageBackground
 const FactView = (props) => {
 	return (
         <View style={styles.factView}>
-            <ImageBackground style={styles.mainImage} source={props.image}>
+            <ImageBackground style={styles.mainImage} source={{uri: props.image}}>
             <SafeAreaView style={styles.buttons}>
                 <TouchableOpacity style={styles.shareButton}>
                     <Image style={styles.buttonImage} source={ShareButton}/>

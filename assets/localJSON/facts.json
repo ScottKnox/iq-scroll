@@ -1,0 +1,10 @@
+[
+  {
+    "factImageUrl": {"S": "../../assets/images/alligator.jpg"},
+    "factBodyText": {"S": "The temperature of an alligator’s nest determines what gender the offspring will be. Females are produced when the temps are below 82.4 degrees Fahrenheit and males are produced at temps above 91.4 degrees Fahrenheit. A temp of 87.8 will produce an even number of males and females"}
+  },
+  {
+    "factImageUrl": {"S": "../../assets/images/girafee.jpg"},
+    "factBodyText": {"S": "Due to the fact Giraffes tongues are out so frequently, grazing on vegetation, they have evolved a blueish/black colour, ensuring they don’t burn under the African sun!"}
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "factId": {"S": "2"},
+  "factImageUrl": {"S": "https://iq-scroll.s3.us-east-2.amazonaws.com/images/girafee.jpg"},
+  "factBodyText": {"S": "Due to the fact Giraffes tongues are out so frequently, grazing on vegetation, they have evolved a blueish/black colour, ensuring they don’t burn under the African sun!"}
+}
