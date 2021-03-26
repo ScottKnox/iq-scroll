@@ -1,5 +1,0 @@
-{
-  "factId": {"S": "1"},
-  "factImageUrl": {"S": "https://iq-scroll.s3.us-east-2.amazonaws.com/images/alligator.jpg"},
-  "factBodyText": {"S": "The temperature of an alligator’s nest determines what gender the offspring will be. Females are produced when the temps are below 82.4 degrees Fahrenheit and males are produced at temps above 91.4 degrees Fahrenheit. A temp of 87.8 will produce an even number of males and females"}
-}
